@@ -77,7 +77,7 @@ UPDATE Aulas SET descricao = 'Aula básica para adaptação' WHERE id_aula = 5;
 UPDATE Aulas SET data_aula = '2024-11-25' WHERE id_aula = 3;
 
 -- Deletes nas tabelas
-DELETE FROM Aulas WHERE id_aula = 4;
+DELETE FROM Aulas WHERE id_aula = 5;
 DELETE FROM Alunos WHERE id_aluno = 5;
 DELETE FROM Instrumentos WHERE id_instrumento = 5;
 
